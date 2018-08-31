@@ -53,8 +53,8 @@
 
    到openssl官网下载压缩包  <http://www.openssl.org/source/>
 
-   解压进入安装包编译 
-    我这里下载的是openssl-1.0.2l.tar.gz
+   解压进入安装包编译
+   我这里下载的是openssl-1.0.2l.tar.gz
 
    ```
    tar -xzvf ./openssl-1.0.2l.tar.gz
